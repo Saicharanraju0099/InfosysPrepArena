@@ -1,38 +1,68 @@
-# 🧠 InfosysPrepArena  
+## 🧠 **InfosysPrepArena**
 
-Welcome to **InfosysPrepArena** — my personal practice ground for **Infosys interview preparation**.  
-This repository contains all my **coding practice, problem-solving exercises, and notes** as I prepare to clear Infosys recruitment rounds.  
+Welcome to **InfosysPrepArena** — my personal coding dojo for preparing and mastering **Infosys placement rounds**.  
+This repo is where I train my brain daily — solving logical puzzles, tackling algorithmic challenges, and reinforcing programming fundamentals to stay interview-ready.
 
----
-
-## 🚀 What’s Inside  
-- 🧩 **Daily Coding Practice** – Solving logical, algorithmic, and aptitude-style problems.  
-- 📘 **Jupyter Notebooks** – Clean, organized solutions with step-by-step explanations.  
-- 💡 **Concept Notes** – Key takeaways and tricks to improve coding efficiency.  
-- 🧠 **Interview-Focused Preparation** – Tackling the type of questions Infosys commonly asks.  
+> “Discipline beats motivation — consistency builds results.”
 
 ---
 
-## 🛠️ Tech Stack  
-- **Language:** Python 🐍  
-- **Environment:** Jupyter Notebook 📓  
-- **Version Control:** Git & GitHub  
+### ⚔️ **About This Repository**
+
+This is more than just a collection of solutions — it’s a **learning log**, a **growth tracker**, and a **reflection space**.  
+Every problem I solve here strengthens my logic, speed, and clarity of thought — the exact skills that make a great developer.
 
 ---
 
-## 🎯 Goal  
-- ✅ Strengthen problem-solving skills  
-- ✅ Improve speed and accuracy  
-- ✅ Build confidence for Infosys interviews  
-- ✅ Develop consistent coding habits  
+### 🚀 **What’s Inside**
+
+🧩 **Daily Practice Sets** — problem statements, solutions, and optimized approaches  
+📘 **Concept Notes** — key takeaways and summaries for revision  
+💻 **Mock Test Problems** — coding challenges modeled after Infosys patterns  
+🧠 **Logic-Based Questions** — reasoning and analytical questions with step-by-step breakdowns  
 
 ---
 
-## 📅 Progress  
-I’ll be **updating this repository regularly** as I continue practicing and learning.  
-Each notebook or file represents a new day, new challenge, and new step toward my Infosys dream.  
+### 🛠️ **Tech Stack**
+
+| Tool | Purpose |
+|------|----------|
+| **Python** | Primary language for problem-solving |
+| **Jupyter Notebook** | Interactive coding environment for explanations and testing |
+| **Git & GitHub** | Version control and documentation of progress |
 
 ---
 
-## 📬 Connect  
-If you’re also preparing for Infosys or similar placements, feel free to explore this repo — maybe we’ll learn and grow together! ✨  
+### 🎯 **Primary Goal**
+
+Build **consistency**, enhance **problem-solving speed**, and develop **logical accuracy** aligned with **Infosys recruitment patterns**.  
+The idea isn’t just to solve problems — it’s to think like an engineer who can turn problems into elegant, efficient solutions.
+
+---
+
+### 📅 **Progress & Commitment**
+
+This repository evolves every week as I continue my preparation journey.  
+Each commit marks another step forward — from beginner logic drills to full-fledged coding mastery.  
+
+🕒 *Updated regularly as I complete new problems and add concept notes.*
+
+---
+
+### 🌱 **Future Plans**
+
+- Add topic-wise coding roadmaps (DSA, logical reasoning, pseudo-code)
+- Integrate timed challenge logs
+- Create a mini dashboard for progress tracking using Python scripts
+
+---
+
+### 🧩 **Connect & Collaborate**
+
+If you’re also preparing for Infosys or similar placements, feel free to fork this repo, explore, and contribute.  
+Let’s grow together — one problem at a time.
+
+---
+
+
+
