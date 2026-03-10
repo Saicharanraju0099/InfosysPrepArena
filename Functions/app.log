@@ -1,0 +1,24 @@
+App Started
+App Started
+user logged in
+App Started
+user logged in
+stopped
+app started
+Invalid Email Recieved: saicharan@gmail.com
+app stopped
+App Started
+user logged in
+stopped
+app started
+Invalid Email Recieved: saicharan@gmail.com
+app stopped
+app started
+Processed Email: {'username': 'saicharan', 'domain': 'gmail.com'}
+app stopped
+app started
+Processed Email: {'username': 'sai', 'domain': 'gmail.com'}
+app stopped
+app started
+Processed Email: {'username': 'sai', 'domain': 'gmail.com'}
+app stopped
